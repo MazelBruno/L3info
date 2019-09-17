@@ -22,5 +22,7 @@ public class JavaMaven {
     public void ajouter(){
         
     }
-    
+    public void supprimer(){
+        
+    }
 }
