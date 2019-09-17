@@ -3,26 +3,21 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package java.maven;
+package javaapplication2;
 
 /**
  *
  * @author bruno
  */
-public class JavaMaven {
+public class JavaApplication2 {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
-    }
-    
-    
-    public void ajouter(){
+        
         
     }
-    public void supprimer(){
-        // ceci est un commentaire merci de bien vouloir marcher 
-    }
+    
 }
